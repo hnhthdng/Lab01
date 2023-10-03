@@ -1,6 +1,3 @@
-using AutomobileSolution.BusinessObject;
-using AutomobileSolution.Repository;
-
 namespace Automobile
 {
     public partial class frmCarDetails : Form
